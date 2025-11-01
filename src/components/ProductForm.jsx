@@ -136,6 +136,7 @@ function ProductForm({ onSave, initialValues = null, submitToServer = false }) {
         </button>
     </form>
   );
+
 }
 
 export default ProductForm;
