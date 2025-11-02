@@ -1,4 +1,4 @@
-# Front-GEstoque
+# Front-TREKO-G-Estoque
 Repositório do Front-End de um projeto de sistema para gestão de estoque.
 
 ## Conexão com o Back-end / CORS
